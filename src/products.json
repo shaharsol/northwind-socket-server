@@ -1,0 +1,541 @@
+[
+    {
+      "id": 1111,
+      "name": "Chai",
+      "price": 18,
+      "stock": 39,
+      "imageUrl": "http://localhost:3030/api/products/images/01a5a6d5-6cc4-4e72-8f5d-e44efd3bc3d7.jpg"
+    },
+    {
+      "id": 1112,
+      "name": "Chang",
+      "price": 19,
+      "stock": 17,
+      "imageUrl": "http://localhost:3030/api/products/images/02ac1e2b-e506-428f-9be3-deca868a1100.jpg"
+    },
+    {
+      "id": 1113,
+      "name": "Aniseed Syrup",
+      "price": 10,
+      "stock": 13,
+      "imageUrl": "http://localhost:3030/api/products/images/03a3d387-5d66-429f-9b22-f58d388d81a5.jpg"
+    },
+    {
+      "id": 1114,
+      "name": "Chef Anton's Cajun Seasoning",
+      "price": 22,
+      "stock": 53,
+      "imageUrl": "http://localhost:3030/api/products/images/04a79fa9-f22d-4caf-a5d2-14f975425a8f.jpg"
+    },
+    {
+      "id": 1115,
+      "name": "Chef Anton's Gumbo Mix",
+      "price": 21.35,
+      "stock": 0,
+      "imageUrl": "http://localhost:3030/api/products/images/05a5a7b5-0652-4e6d-9832-26613126cb68.jpg"
+    },
+    {
+      "id": 1116,
+      "name": "Grandma's Boysenberry Spread",
+      "price": 25,
+      "stock": 120,
+      "imageUrl": "http://localhost:3030/api/products/images/06a2a0a2-6191-4fb2-bc2d-649e6b2872c0.jpg"
+    },
+    {
+      "id": 1117,
+      "name": "Uncle Bob's Organic Dried Pears",
+      "price": 30,
+      "stock": 15,
+      "imageUrl": "http://localhost:3030/api/products/images/07a71aa7-9b74-4142-af23-f9513efbd4d5.jpg"
+    },
+    {
+      "id": 1118,
+      "name": "Northwoods Cranberry Sauce",
+      "price": 40,
+      "stock": 6,
+      "imageUrl": "http://localhost:3030/api/products/images/08afab5a-3668-46ed-8e33-cd0f617e1af8.jpg"
+    },
+    {
+      "id": 1119,
+      "name": "Mishi Kobe Niku",
+      "price": 97,
+      "stock": 29,
+      "imageUrl": "http://localhost:3030/api/products/images/09a5a5b3-773e-41e2-86b9-d61350451427.jpg"
+    },
+    {
+      "id": 11110,
+      "name": "Ikura",
+      "price": 31,
+      "stock": 31,
+      "imageUrl": "http://localhost:3030/api/products/images/10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg"
+    },
+    {
+      "id": 11111,
+      "name": "Queso Cabrales",
+      "price": 21,
+      "stock": 22,
+      "imageUrl": "http://localhost:3030/api/products/images/11a892b3-febc-49e1-b9d7-6e1b4e9be23a.jpg"
+    },
+    {
+      "id": 11112,
+      "name": "Queso Manchego La Pastora",
+      "price": 38,
+      "stock": 86,
+      "imageUrl": "http://localhost:3030/api/products/images/12ad3742-d11a-4182-a689-378f9becb4f0.jpg"
+    },
+    {
+      "id": 11113,
+      "name": "Konbu",
+      "price": 6,
+      "stock": 24,
+      "imageUrl": "http://localhost:3030/api/products/images/13a41d43-14c8-4e6f-93dc-c652647991ef.jpg"
+    },
+    {
+      "id": 11114,
+      "name": "Tofu",
+      "price": 23.25,
+      "stock": 35,
+      "imageUrl": "http://localhost:3030/api/products/images/14a06e9e-b23a-4a6f-b12a-6bcd509391f7.jpg"
+    },
+    {
+      "id": 11115,
+      "name": "Genen Shouyu",
+      "price": 15.5,
+      "stock": 39,
+      "imageUrl": "http://localhost:3030/api/products/images/15a5cb3a-3322-41ba-b498-a33aec9a60fc.jpg"
+    },
+    {
+      "id": 11116,
+      "name": "Pavlova",
+      "price": 17.45,
+      "stock": 29,
+      "imageUrl": "http://localhost:3030/api/products/images/16afb830-abe1-4cd1-a5be-f3673f385233.jpg"
+    },
+    {
+      "id": 11117,
+      "name": "Alice Mutton",
+      "price": 39,
+      "stock": 0,
+      "imageUrl": "http://localhost:3030/api/products/images/17a4eef7-9a9b-46f9-897c-5cf6598e8b52.jpg"
+    },
+    {
+      "id": 11118,
+      "name": "Carnarvon Tigers",
+      "price": 62.5,
+      "stock": 42,
+      "imageUrl": "http://localhost:3030/api/products/images/18a1078a-9cd6-4cd4-900a-2262a6f65d24.jpg"
+    },
+    {
+      "id": 11119,
+      "name": "Teatime Chocolate Biscuits",
+      "price": 9.2,
+      "stock": 25,
+      "imageUrl": "http://localhost:3030/api/products/images/19aa607d-637b-49dd-ba70-2555c44c2513.jpg"
+    },
+    {
+      "id": 11120,
+      "name": "Sir Rodney's Marmalade",
+      "price": 81,
+      "stock": 40,
+      "imageUrl": "http://localhost:3030/api/products/images/20a85122-1fee-4ce1-ba82-5f98603220cf.jpg"
+    },
+    {
+      "id": 11121,
+      "name": "Sir Rodney's Scones",
+      "price": 10,
+      "stock": 3,
+      "imageUrl": "http://localhost:3030/api/products/images/21a753b0-d5d6-4313-aa9a-58abc1ba9622.jpg"
+    },
+    {
+      "id": 11122,
+      "name": "Gustaf's Knäckebröd",
+      "price": 21,
+      "stock": 104,
+      "imageUrl": "http://localhost:3030/api/products/images/22a194c0-85d3-4905-b1a9-f51011d21edd.jpg"
+    },
+    {
+      "id": 11123,
+      "name": "Tunnbröd",
+      "price": 9,
+      "stock": 61,
+      "imageUrl": "http://localhost:3030/api/products/images/23aea92f-d937-4588-8425-835629bf61cd.jpg"
+    },
+    {
+      "id": 11124,
+      "name": "Guaraná Fantástica",
+      "price": 4.5,
+      "stock": 20,
+      "imageUrl": "http://localhost:3030/api/products/images/24abb35c-ab7f-4e4a-acf1-9ef6119899fc.jpg"
+    },
+    {
+      "id": 11125,
+      "name": "NuNuCa Nuß-Nougat-Creme",
+      "price": 14,
+      "stock": 76,
+      "imageUrl": "http://localhost:3030/api/products/images/25a184fc-187d-43bc-bc45-a5436acfcef5.jpg"
+    },
+    {
+      "id": 11126,
+      "name": "Gumbär Gummibärchen",
+      "price": 31.23,
+      "stock": 15,
+      "imageUrl": "http://localhost:3030/api/products/images/26abf173-04bb-4394-a287-85bb84539c25.jpg"
+    },
+    {
+      "id": 11127,
+      "name": "Schoggi Schokolade",
+      "price": 43.9,
+      "stock": 49,
+      "imageUrl": "http://localhost:3030/api/products/images/27ac049b-881a-4163-914c-ae78b0b13272.jpg"
+    },
+    {
+      "id": 11128,
+      "name": "Rössle Sauerkraut",
+      "price": 45.6,
+      "stock": 26,
+      "imageUrl": "http://localhost:3030/api/products/images/28a612a8-5aeb-45e7-98f7-d1ac8b22905e.jpg"
+    },
+    {
+      "id": 11129,
+      "name": "Thüringer Rostbratwurst",
+      "price": 123.79,
+      "stock": 0,
+      "imageUrl": "http://localhost:3030/api/products/images/29af85ae-b4ca-442f-9a48-6ccea2ca46b0.jpg"
+    },
+    {
+      "id": 11130,
+      "name": "Nord-Ost Matjeshering",
+      "price": 25.89,
+      "stock": 10,
+      "imageUrl": "http://localhost:3030/api/products/images/30a17550-611f-40a8-9fc4-2cb6624ad067.jpg"
+    },
+    {
+      "id": 11131,
+      "name": "Gorgonzola Telino",
+      "price": 12.5,
+      "stock": 0,
+      "imageUrl": "http://localhost:3030/api/products/images/31a42fe0-c8aa-4ad7-93ef-8e9b999e0aef.jpg"
+    },
+    {
+      "id": 11132,
+      "name": "Mascarpone Fabioli",
+      "price": 32,
+      "stock": 9,
+      "imageUrl": "http://localhost:3030/api/products/images/32a94c05-9e2a-4db7-86ea-e4b5b2abb3ce.jpg"
+    },
+    {
+      "id": 11133,
+      "name": "Geitost",
+      "price": 2.5,
+      "stock": 112,
+      "imageUrl": "http://localhost:3030/api/products/images/33a711bd-6321-4448-a504-5b69906a179b.jpg"
+    },
+    {
+      "id": 11134,
+      "name": "Sasquatch Ale",
+      "price": 14,
+      "stock": 111,
+      "imageUrl": "http://localhost:3030/api/products/images/34a60796-33b1-477e-a1a9-09c23e76a8ff.jpg"
+    },
+    {
+      "id": 11135,
+      "name": "Steeleye Stout",
+      "price": 18,
+      "stock": 20,
+      "imageUrl": "http://localhost:3030/api/products/images/35ac3f85-84b4-4dfb-87ae-702fbb7c85ec.jpg"
+    },
+    {
+      "id": 11136,
+      "name": "Inlagd Sill",
+      "price": 19,
+      "stock": 112,
+      "imageUrl": "http://localhost:3030/api/products/images/36a22a0a-e65a-4476-8b3c-3b15061595b1.jpg"
+    },
+    {
+      "id": 11137,
+      "name": "Gravad lax",
+      "price": 26,
+      "stock": 11,
+      "imageUrl": "http://localhost:3030/api/products/images/37a0b741-1ca6-4920-b044-55f67397dfba.jpg"
+    },
+    {
+      "id": 11138,
+      "name": "Côte de Blaye",
+      "price": 263.5,
+      "stock": 17,
+      "imageUrl": "http://localhost:3030/api/products/images/38a0c2b2-28a2-4f77-bcc3-0b87c0d3a5cb.jpg"
+    },
+    {
+      "id": 11139,
+      "name": "Chartreuse verte",
+      "price": 18,
+      "stock": 69,
+      "imageUrl": "http://localhost:3030/api/products/images/39af4c23-7544-4456-91b0-bb5e2c48e5be.jpg"
+    },
+    {
+      "id": 11140,
+      "name": "Boston Crab Meat",
+      "price": 18.4,
+      "stock": 123,
+      "imageUrl": "http://localhost:3030/api/products/images/40addd6c-b91e-4d7d-8fb9-5cf04c5a407c.jpg"
+    },
+    {
+      "id": 11141,
+      "name": "Jack's New England Clam Chowder",
+      "price": 9.65,
+      "stock": 85,
+      "imageUrl": "http://localhost:3030/api/products/images/41a37c83-35bd-4293-926b-c778c8e8f706.jpg"
+    },
+    {
+      "id": 11142,
+      "name": "Singaporean Hokkien Fried Mee",
+      "price": 14,
+      "stock": 26,
+      "imageUrl": "http://localhost:3030/api/products/images/42afe07c-4252-4135-8063-e933e48fda46.jpg"
+    },
+    {
+      "id": 11143,
+      "name": "Ipoh Coffee",
+      "price": 46,
+      "stock": 17,
+      "imageUrl": "http://localhost:3030/api/products/images/43aa8781-c354-4460-8904-5ace6324de69.jpg"
+    },
+    {
+      "id": 11144,
+      "name": "Gula Malacca",
+      "price": 19.45,
+      "stock": 27,
+      "imageUrl": "http://localhost:3030/api/products/images/44a2917c-2aa0-481e-bcd9-c7214262a46d.jpg"
+    },
+    {
+      "id": 11145,
+      "name": "Rogede sild",
+      "price": 9.5,
+      "stock": 5,
+      "imageUrl": "http://localhost:3030/api/products/images/45a34318-ef69-4785-aac4-bd8eb6837801.jpg"
+    },
+    {
+      "id": 11146,
+      "name": "Spegesild",
+      "price": 12,
+      "stock": 95,
+      "imageUrl": "http://localhost:3030/api/products/images/46a0af45-562e-422d-bd1b-601aaa175e0d.jpg"
+    },
+    {
+      "id": 11147,
+      "name": "Zaanse koeken",
+      "price": 9.5,
+      "stock": 36,
+      "imageUrl": "http://localhost:3030/api/products/images/47a80709-b8f3-43ab-9242-e9bcf8cc2c97.jpg"
+    },
+    {
+      "id": 11148,
+      "name": "Chocolade",
+      "price": 12.75,
+      "stock": 15,
+      "imageUrl": "http://localhost:3030/api/products/images/48a76eed-15b1-4577-9552-c592f754c647.jpg"
+    },
+    {
+      "id": 11149,
+      "name": "Maxilaku",
+      "price": 20,
+      "stock": 10,
+      "imageUrl": "http://localhost:3030/api/products/images/49a4cbb8-b018-44e4-bfbe-cb404af90e4b.jpg"
+    },
+    {
+      "id": 11150,
+      "name": "Valkoinen suklaa",
+      "price": 16.25,
+      "stock": 65,
+      "imageUrl": "http://localhost:3030/api/products/images/50a38b41-706c-41eb-a22b-6f856ca644ce.jpg"
+    },
+    {
+      "id": 11151,
+      "name": "Manjimup Dried Apples",
+      "price": 53,
+      "stock": 20,
+      "imageUrl": "http://localhost:3030/api/products/images/51a2bbcd-bc38-4495-bc20-f2ea75db66f9.jpg"
+    },
+    {
+      "id": 11152,
+      "name": "Filo Mix",
+      "price": 7,
+      "stock": 38,
+      "imageUrl": "http://localhost:3030/api/products/images/52a325da-ce76-41d9-82b1-e9d19f518b35.jpg"
+    },
+    {
+      "id": 11153,
+      "name": "Perth Pasties",
+      "price": 32.8,
+      "stock": 0,
+      "imageUrl": "http://localhost:3030/api/products/images/53a30034-93f6-4620-a1c0-7302542a2743.jpg"
+    },
+    {
+      "id": 11154,
+      "name": "Tourtière",
+      "price": 7.45,
+      "stock": 21,
+      "imageUrl": "http://localhost:3030/api/products/images/54af9a26-a37a-456c-81df-2a71b79410d8.jpg"
+    },
+    {
+      "id": 11155,
+      "name": "Pâté chinois",
+      "price": 24,
+      "stock": 115,
+      "imageUrl": "http://localhost:3030/api/products/images/55a755ff-8f9d-4466-8c06-a6a566141831.jpg"
+    },
+    {
+      "id": 11156,
+      "name": "Gnocchi di nonna Alice",
+      "price": 38,
+      "stock": 21,
+      "imageUrl": "http://localhost:3030/api/products/images/56a729b3-cea8-47c8-9c5b-ff961dc298d0.jpg"
+    },
+    {
+      "id": 11157,
+      "name": "Ravioli Angelo",
+      "price": 19.5,
+      "stock": 36,
+      "imageUrl": "http://localhost:3030/api/products/images/57aa27f0-63a0-4167-ac0f-d74b2740820e.jpg"
+    },
+    {
+      "id": 11158,
+      "name": "Escargots de Bourgogne",
+      "price": 13.25,
+      "stock": 62,
+      "imageUrl": "http://localhost:3030/api/products/images/58a3cd14-b99c-4b8f-93bd-53295b2d18c3.jpg"
+    },
+    {
+      "id": 11159,
+      "name": "Raclette Courdavault",
+      "price": 55,
+      "stock": 79,
+      "imageUrl": "http://localhost:3030/api/products/images/59a865b8-f5eb-4d72-97d2-d243b733978a.jpg"
+    },
+    {
+      "id": 11160,
+      "name": "Camembert Pierrot",
+      "price": 34,
+      "stock": 19,
+      "imageUrl": "http://localhost:3030/api/products/images/60a8c72c-59ea-433d-8f7e-8ce534f369b5.jpg"
+    },
+    {
+      "id": 11161,
+      "name": "Sirop d'érable",
+      "price": 28.5,
+      "stock": 113,
+      "imageUrl": "http://localhost:3030/api/products/images/61af18ab-e3ab-4ebb-a74e-9943871e3380.jpg"
+    },
+    {
+      "id": 11162,
+      "name": "Tarte au sucre",
+      "price": 49.3,
+      "stock": 17,
+      "imageUrl": "http://localhost:3030/api/products/images/62aef61c-6f8b-4d03-9c73-570bb0c85f0a.jpg"
+    },
+    {
+      "id": 11163,
+      "name": "Vegie-spread",
+      "price": 43.9,
+      "stock": 24,
+      "imageUrl": "http://localhost:3030/api/products/images/63aca08a-4c2c-4640-a037-adbcf0cec995.jpg"
+    },
+    {
+      "id": 11164,
+      "name": "Wimmers gute Semmelknödel",
+      "price": 33.25,
+      "stock": 22,
+      "imageUrl": "http://localhost:3030/api/products/images/64a1bd53-051c-404c-a253-b29d1672af03.jpg"
+    },
+    {
+      "id": 11165,
+      "name": "Louisiana Fiery Hot Pepper Sauce",
+      "price": 21.05,
+      "stock": 76,
+      "imageUrl": "http://localhost:3030/api/products/images/65af7c6e-8db6-4cf5-9d07-8fc24eddeb1d.jpg"
+    },
+    {
+      "id": 11166,
+      "name": "Louisiana Hot Spiced Okra",
+      "price": 17,
+      "stock": 4,
+      "imageUrl": "http://localhost:3030/api/products/images/66ab44bd-70b7-46c6-8347-459e7025506e.jpg"
+    },
+    {
+      "id": 11167,
+      "name": "Laughing Lumberjack Lager",
+      "price": 14,
+      "stock": 52,
+      "imageUrl": "http://localhost:3030/api/products/images/67ab7275-8a1c-4b3c-b161-774882816dba.jpg"
+    },
+    {
+      "id": 11168,
+      "name": "Scottish Longbreads",
+      "price": 12.5,
+      "stock": 6,
+      "imageUrl": "http://localhost:3030/api/products/images/68ac7115-7a5a-4d7a-b0ea-5b71fad5cf8a.jpg"
+    },
+    {
+      "id": 11169,
+      "name": "Gudbrandsdalsost",
+      "price": 36,
+      "stock": 26,
+      "imageUrl": "http://localhost:3030/api/products/images/69a4aaf4-3cdd-4a88-9f41-014448bd5efc.jpg"
+    },
+    {
+      "id": 11170,
+      "name": "Outback Lager",
+      "price": 15,
+      "stock": 15,
+      "imageUrl": "http://localhost:3030/api/products/images/70aab78c-ef63-41c0-800e-b2d1532f05c8.jpg"
+    },
+    {
+      "id": 11171,
+      "name": "Flotemysost",
+      "price": 21.5,
+      "stock": 26,
+      "imageUrl": "http://localhost:3030/api/products/images/71a6c91b-1c64-4747-9b11-32892c3ccac7.jpg"
+    },
+    {
+      "id": 11172,
+      "name": "Mozzarella di Giovanni",
+      "price": 34.8,
+      "stock": 14,
+      "imageUrl": "http://localhost:3030/api/products/images/72a45122-fc0f-488f-a9b8-4e31a5522733.jpg"
+    },
+    {
+      "id": 11173,
+      "name": "Röd Kaviar",
+      "price": 15,
+      "stock": 101,
+      "imageUrl": "http://localhost:3030/api/products/images/73acbca7-7918-4197-9b1a-aa4a2ef9bcd8.jpg"
+    },
+    {
+      "id": 11174,
+      "name": "Longlife Tofu",
+      "price": 10,
+      "stock": 4,
+      "imageUrl": "http://localhost:3030/api/products/images/74ab9289-553b-47cf-88c9-a2e5c61dc39b.jpg"
+    },
+    {
+      "id": 11175,
+      "name": "Rhönbräu Klosterbier",
+      "price": 7.75,
+      "stock": 125,
+      "imageUrl": "http://localhost:3030/api/products/images/75a4786e-7014-4c03-90b8-153ea66138ed.jpg"
+    },
+    {
+      "id": 11176,
+      "name": "Lakkalikööri",
+      "price": 18,
+      "stock": 57,
+      "imageUrl": "http://localhost:3030/api/products/images/76acda58-8969-4d30-86c4-2d19104b15c7.jpg"
+    },
+    {
+      "id": 11177,
+      "name": "Original Frankfurter grüne Soße",
+      "price": 13,
+      "stock": 32,
+      "imageUrl": "http://localhost:3030/api/products/images/77acfad7-11c4-4c74-95f5-41db66c772ab.jpg"
+    }
+  ]
