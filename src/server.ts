@@ -16,7 +16,9 @@ function alwaysEmit(socket: Socket) {
     console.log('emitted')
     const sleep = Math.random() * 1000
     console.log(`emitting again in ${sleep} milliseconds`)
-    setTimeout(alwaysEmit, sleep)
+    setTimeout(() => {
+        alwaysEmit(socket)
+    }, sleep)
 }
 
 
