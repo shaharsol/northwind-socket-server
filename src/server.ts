@@ -13,9 +13,9 @@ function alwaysEmit(socket: Socket) {
 
     socket.emit('new product', products[index])
 
-    console.log('emitted')
+    // console.log('emitted')
     const sleep = Math.random() * 1000 * 5
-    console.log(`emitting again in ${sleep} milliseconds`)
+    // console.log(`emitting again in ${sleep} milliseconds`)
     setTimeout(() => {
         alwaysEmit(socket)
     }, sleep)
@@ -26,6 +26,10 @@ io.on('connection', (socket) => {
     console.log(`a user connected`);
 
     alwaysEmit(socket)
+
+    socket.on('startup acknowledge', () => {
+        console.log('client acknowledged')
+    })
 
     socket.on('disconnect', () => {
         console.log('a user disconnected');
